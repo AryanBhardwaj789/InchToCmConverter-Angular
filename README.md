@@ -24,7 +24,7 @@ This is an Angular mobile application that allows users to convert inches to cen
 
 <table>
   <tr>
-    <td>![image]("https://github.com/AryanBhardwaj789/InchToCmConverter-Angular/assets/162862159/a70302ee-da0b-4e4a-a1fe-c5bfa3f07ac5")</td>
-    <td>![image]("https://github.com/AryanBhardwaj789/InchToCmConverter-Angular/assets/162862159/9a5d5379-f398-4225-a95a-87da58c2e53f")</td>
+    <td><img src="https://github.com/AryanBhardwaj789/InchToCmConverter-Angular/assets/162862159/a70302ee-da0b-4e4a-a1fe-c5bfa3f07ac5" alt="Image 1"></td>
+    <td><img src="https://github.com/AryanBhardwaj789/InchToCmConverter-Angular/assets/162862159/9a5d5379-f398-4225-a95a-87da58c2e53f" alt="Image 2"></td>
   </tr>
 </table>
