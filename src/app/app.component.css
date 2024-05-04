@@ -1,0 +1,35 @@
+.flexbox {
+    display:flex;
+    gap:0.5em;
+}
+
+.text {
+    display: flex;
+    margin-bottom: 5px;
+}
+
+.col1, .col3 {
+    flex: 1 1 auto; /* grow, shrink, basis */
+}
+
+.col2 {
+    flex:0 0 auto;
+}
+
+h1 {
+    text-align:center;
+}
+
+.labelinchandcm{
+    display: flex;
+}
+
+.inch{
+    flex: 5em;
+    font-size: 25px;
+}
+
+.cm{
+    flex: 4em;
+    font-size: 25px;
+}

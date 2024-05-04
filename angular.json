@@ -37,7 +37,10 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/fractions.js",
+              "src/assets/Logger.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -96,10 +99,16 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/fractions.js",
+              "src/assets/Logger.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e4195265-a7c0-49b9-a7e2-b0726a83084a"
   }
 }
