@@ -11,7 +11,7 @@ This is an Angular mobile application that allows users to convert inches to cen
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/AryanBhardwaj789/inch-to-cm-converter-angular.git`
+1. Clone the repository: `git clone https://github.com/AryanBhardwaj789/InchToCmConverter-Angular.git`
 2. Install dependencies: `npm install`
 3. Run the application: `ng serve`
 
